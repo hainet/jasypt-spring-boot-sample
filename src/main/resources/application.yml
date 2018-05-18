@@ -1,0 +1,6 @@
+app:
+  password: ENC({{Me18MiS/xIjF04gMXkN+Mw==}})
+
+jasypt:
+  encryptor:
+    password: password
